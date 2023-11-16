@@ -61,7 +61,7 @@ li{
 }
 
 .main-section{
-    background-image: url('./img/playstation.jpg');
+    background-image: url('TP2/img/playstation.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -118,7 +118,7 @@ li{
     background: #80808014;
     padding: 0.8em;
     border-radius: 5px;
-    margin-bottom: 1en;
+    margin-bottom: 1em;
     box-shadow: -2px 4px 5px 2px #80808054, -1px 2px 15px 0px #80808030;
 }
 
