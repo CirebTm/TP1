@@ -68,7 +68,7 @@ li{
     text-align: center;
     min-height: 500px;
     padding-top: 1em;
-    color : #34A853;
+    color : #4C8BF5;
     font-family: 'Encode Sans Expanded', sans-serif;
     font-size: 25px;
 }
@@ -106,7 +106,7 @@ li{
 
 .features .fa-solid,
 .features .fa-regular{
-    background-color: #34A853;
+    background-color: #4C8BF5;
     color: white;
     padding: 45px;
     border-radius: 50%;
